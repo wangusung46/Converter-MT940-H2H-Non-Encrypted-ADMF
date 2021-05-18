@@ -1,0 +1,44 @@
+May 18, 2021 10:28:36 AM main.java.com.test.pgp.bc.BCPGPFileAndFolder checkConfigMt
+INFO: Reading configuration file.
+May 18, 2021 10:28:36 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: Start mapping file mnemonic
+May 18, 2021 10:28:36 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: Mapping file mnemonic done
+May 18, 2021 10:28:36 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: Starting convert file ADIRA_003600264117_20210128.txt
+May 18, 2021 10:28:36 AM main.java.com.test.pgp.bc.ConvertMT940 getCurrency
+INFO: Currency found
+May 18, 2021 10:28:36 AM main.java.com.test.pgp.bc.ConvertMT940 getCurrency
+INFO: Currency found
+May 18, 2021 10:28:36 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: File ADIRA_003600264117_20210128.txt converted
+May 18, 2021 10:28:36 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: Starting convert file KAI001_000001176908_20200722.txt
+May 18, 2021 10:28:36 AM main.java.com.test.pgp.bc.ConvertMT940 getCurrency
+INFO: Currency found
+May 18, 2021 10:28:36 AM main.java.com.test.pgp.bc.ConvertMT940 getCurrency
+INFO: Currency found
+May 18, 2021 10:28:36 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: File KAI001_000001176908_20200722.txt converted
+May 18, 2021 10:36:07 AM main.java.com.test.pgp.bc.BCPGPFileAndFolder checkConfigMt
+INFO: Reading configuration file.
+May 18, 2021 10:36:07 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: Start mapping file mnemonic
+May 18, 2021 10:36:07 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: Mapping file mnemonic done
+May 18, 2021 10:36:07 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: Starting convert file ADIRA_003600264117_20210128.txt
+May 18, 2021 10:36:07 AM main.java.com.test.pgp.bc.ConvertMT940 getCurrency
+INFO: Currency found
+May 18, 2021 10:36:07 AM main.java.com.test.pgp.bc.ConvertMT940 getCurrency
+INFO: Currency found
+May 18, 2021 10:36:07 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: File ADIRA_003600264117_20210128.txt converted
+May 18, 2021 10:36:07 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: Starting convert file KAI001_000001176908_20200722.txt
+May 18, 2021 10:36:07 AM main.java.com.test.pgp.bc.ConvertMT940 getCurrency
+INFO: Currency found
+May 18, 2021 10:36:07 AM main.java.com.test.pgp.bc.ConvertMT940 getCurrency
+INFO: Currency found
+May 18, 2021 10:36:07 AM main.java.com.test.pgp.bc.ConvertMT940 convertMtAdmf
+INFO: File KAI001_000001176908_20200722.txt converted
